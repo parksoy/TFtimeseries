@@ -1,4 +1,4 @@
-# DeepLearning.AI TensorFlow Developer
+<!-- # DeepLearning.AI TensorFlow Developer
 
 Welcome to the public repo for this course.
 
@@ -154,6 +154,7 @@ If you find a bug that is blocking in any way consider joining our [community](h
 
 1. NLP with Irish Music _(C3_W4_Lab_1.ipynb)_
 2. Generating Poetry from Irish Lyrics _(C3_W4_Lab_2_irish_lyrics.ipynb)_
+-->
 
 ## C4 - Sequences, Time Series and Prediction
 
